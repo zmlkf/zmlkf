@@ -40,6 +40,5 @@ I'm actively participating in Codewars to enhance my coding skills. You can chec
 ![Codewars](https://www.codewars.com/users/zmlkff/badges/large)
 
 ## Contact Me
-- ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white): [zemliakovroman97@gmail.com](mailto:zemliakovroman97@gmail.com)
-- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white): [zmlkf](https://t.me/zmlkf)
-
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zemliakovroman97@gmail.com)
+- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zmlkf)
